@@ -1,0 +1,46 @@
+# ==========================================
+# Jupyter Notebook Files
+# ==========================================
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+# If you run notebooks that generate auto-saved backups
+*.ipynb_checkpoints
+
+# ==========================================
+# Python Byte-compiled / Optimized files
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ==========================================
+# Data Files & Large Datasets
+# ==========================================
+# Un-comment the lines below if you want to keep your data off GitHub 
+# (Highly recommended if files are large or private)
+# train.csv
+# test.csv
+# titan.csv
+# gender_submission.csv
+# *.csv
+
+# ==========================================
+# Virtual Environments (Local setups)
+# ==========================================
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# ==========================================
+# OS Generated Files (System junk)
+# ==========================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
